@@ -1,0 +1,34 @@
+D:\projects\X4SaveEditor\X4SaveEditor\bin\Debug\X4SaveEditor.exe.config
+D:\projects\X4SaveEditor\X4SaveEditor\bin\Debug\X4SaveEditor.exe
+D:\projects\X4SaveEditor\X4SaveEditor\bin\Debug\X4SaveEditor.pdb
+D:\projects\X4SaveEditor\X4SaveEditor\obj\Debug\X4SaveEditor.csprojAssemblyReference.cache
+D:\projects\X4SaveEditor\X4SaveEditor\obj\Debug\MainWindow.g.cs
+D:\projects\X4SaveEditor\X4SaveEditor\obj\Debug\App.g.cs
+D:\projects\X4SaveEditor\X4SaveEditor\obj\Debug\X4SaveEditor_MarkupCompile.cache
+D:\projects\X4SaveEditor\X4SaveEditor\obj\Debug\X4SaveEditor_MarkupCompile.lref
+D:\projects\X4SaveEditor\X4SaveEditor\obj\Debug\MainWindow.baml
+D:\projects\X4SaveEditor\X4SaveEditor\obj\Debug\X4SaveEditor.g.resources
+D:\projects\X4SaveEditor\X4SaveEditor\obj\Debug\X4SaveEditor.Properties.Resources.resources
+D:\projects\X4SaveEditor\X4SaveEditor\obj\Debug\X4SaveEditor.csproj.GenerateResource.cache
+D:\projects\X4SaveEditor\X4SaveEditor\obj\Debug\X4SaveEditor.csproj.CoreCompileInputs.cache
+D:\projects\X4SaveEditor\X4SaveEditor\obj\Debug\X4SaveEditor.exe
+D:\projects\X4SaveEditor\X4SaveEditor\obj\Debug\X4SaveEditor.pdb
+D:\projects\X4SaveEditor\X4SaveEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\projects\X4SaveEditor\X4SaveEditor\obj\Debug\App.baml
+C:\Users\artin\Downloads\x4 mods\X4SaveEditor\X4SaveEditor\bin\Debug\X4SaveEditor.exe.config
+C:\Users\artin\Downloads\x4 mods\X4SaveEditor\X4SaveEditor\bin\Debug\X4SaveEditor.exe
+C:\Users\artin\Downloads\x4 mods\X4SaveEditor\X4SaveEditor\bin\Debug\X4SaveEditor.pdb
+C:\Users\artin\Downloads\x4 mods\X4SaveEditor\X4SaveEditor\obj\Debug\X4SaveEditor.csprojAssemblyReference.cache
+C:\Users\artin\Downloads\x4 mods\X4SaveEditor\X4SaveEditor\obj\Debug\MainWindow.g.cs
+C:\Users\artin\Downloads\x4 mods\X4SaveEditor\X4SaveEditor\obj\Debug\App.g.cs
+C:\Users\artin\Downloads\x4 mods\X4SaveEditor\X4SaveEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\artin\Downloads\x4 mods\X4SaveEditor\X4SaveEditor\obj\Debug\X4SaveEditor_MarkupCompile.cache
+C:\Users\artin\Downloads\x4 mods\X4SaveEditor\X4SaveEditor\obj\Debug\X4SaveEditor_MarkupCompile.lref
+C:\Users\artin\Downloads\x4 mods\X4SaveEditor\X4SaveEditor\obj\Debug\App.baml
+C:\Users\artin\Downloads\x4 mods\X4SaveEditor\X4SaveEditor\obj\Debug\MainWindow.baml
+C:\Users\artin\Downloads\x4 mods\X4SaveEditor\X4SaveEditor\obj\Debug\X4SaveEditor.g.resources
+C:\Users\artin\Downloads\x4 mods\X4SaveEditor\X4SaveEditor\obj\Debug\X4SaveEditor.Properties.Resources.resources
+C:\Users\artin\Downloads\x4 mods\X4SaveEditor\X4SaveEditor\obj\Debug\X4SaveEditor.csproj.GenerateResource.cache
+C:\Users\artin\Downloads\x4 mods\X4SaveEditor\X4SaveEditor\obj\Debug\X4SaveEditor.csproj.CoreCompileInputs.cache
+C:\Users\artin\Downloads\x4 mods\X4SaveEditor\X4SaveEditor\obj\Debug\X4SaveEditor.exe
+C:\Users\artin\Downloads\x4 mods\X4SaveEditor\X4SaveEditor\obj\Debug\X4SaveEditor.pdb
